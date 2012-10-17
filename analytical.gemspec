@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
     "README.rdoc"
   ]
   s.files = [
-    "app/views/layouts/_analytical_javascript.html.erb",
+    "app/views/application/_analytical_javascript.html.erb",
     "lib/analytical.rb",
     "lib/analytical/api.rb",
     "lib/analytical/bot_detector.rb",
